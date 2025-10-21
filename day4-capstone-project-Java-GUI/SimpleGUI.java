@@ -5,7 +5,7 @@ public class SimpleGUI {
 
         // Create a new window (JFrame)
         JFrame frame = new JFrame("My First GUI");
-        frame.setSize(300, 150);
+        frame.setSize(480, 720);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setLayout(null); // absolute positioning
 
